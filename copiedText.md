@@ -3,7 +3,7 @@
 <h3>Kopyalanan metni Google Analytics'e "Kopyalanan Metin" ve "Metin Uzunluğu" olarak gönderme</h3>
 
 <ul>
-<li> Google Tag Manager üzerinden Custom HTML bir tag oluşturun ve trigger'ını bütün sayfalarda görünecek şekilde ayarlayın </li>
+<li> Google Tag Manager üzerinden Custom HTML bir tag oluşturun ve trigger'ını bütün sayfalarda görünecek şekilde ayarlayın</li>
 <li> Aşağıda yer alan kodu açtığınız tag içerisine yerleştirin 
 
     <script>
